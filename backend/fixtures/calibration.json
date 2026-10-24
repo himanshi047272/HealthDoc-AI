@@ -1,0 +1,5 @@
+{
+ "relevance_threshold": 0.5,
+ "fit_on": "fixtures/eval_cases.json",
+ "note": "in-sample; see leave_one_out"
+}

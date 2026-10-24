@@ -1,0 +1,2 @@
+# Optional: real semantic embeddings. Needs a one-time model download (~90 MB).
+sentence-transformers==3.3.1

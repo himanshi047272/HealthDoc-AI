@@ -1,0 +1,13 @@
+# Pins below were chosen from known-good releases but could NOT be install-tested offline. Run `pip install -r requirements.txt` and `pip freeze > requirements.lock` on first setup.
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+pydantic==2.10.3
+python-multipart==0.0.20
+PyMuPDF==1.25.1
+pypdf==5.1.0
+pytesseract==0.3.13
+opencv-python-headless==4.10.0.84
+Pillow==11.0.0
+numpy==1.26.4
+scikit-learn==1.5.2
+spacy==3.8.2

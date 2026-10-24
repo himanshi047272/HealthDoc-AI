@@ -1,0 +1,5 @@
+-r requirements.txt
+pytest==8.3.4
+httpx==0.28.1
+reportlab==4.2.5
+pikepdf==9.4.2
